@@ -1,9 +1,9 @@
 {
   "cssTheme": "Encore",
   "interfaceFontFamily": "",
-  "textFontFamily": "Fira Code",
+  "textFontFamily": "",
   "monospaceFontFamily": "",
-  "baseFontSize": 18,
+  "baseFontSize": 14,
   "baseFontSizeAction": true,
   "nativeMenus": true
 }

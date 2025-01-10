@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8a185c30e155f9cf","type":"file","file":"app/linux-page/Linux.md","x":-320,"y":-640,"width":480,"height":400},
+		{"id":"2d1e450e7682162d","type":"file","file":"pages/Linux-Pages/Linux File Structure.md","x":120,"y":-140,"width":400,"height":400},
+		{"id":"faf3c8e0cb09fab3","type":"file","file":"pages/Linux-Pages/Linux command.md","x":-680,"y":-140,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"be76fc2e174c2d5d","fromNode":"8a185c30e155f9cf","fromSide":"right","toNode":"2d1e450e7682162d","toSide":"top","fromEnd":"arrow"},
+		{"id":"4f2b02e4b51d05e6","fromNode":"8a185c30e155f9cf","fromSide":"left","toNode":"faf3c8e0cb09fab3","toSide":"top","fromEnd":"arrow"}
+	]
+}
