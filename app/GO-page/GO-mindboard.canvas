@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"535c4ef619da7119","x":-240,"y":-420,"width":400,"height":400,"type":"file","file":"app/GO-page/GO.md"},
+		{"id":"f7462aa9de010519","x":-440,"y":60,"width":400,"height":400,"type":"file","file":"pages/GO-pages/Basics.md"}
+	],
+	"edges":[
+		{"id":"06e311326bfb1159","fromNode":"535c4ef619da7119","fromSide":"bottom","toNode":"f7462aa9de010519","toSide":"top"}
+	]
+}

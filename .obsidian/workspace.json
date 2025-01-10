@@ -4,35 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ae453ba0c14933c8",
+        "id": "883096eab8954d48",
         "type": "tabs",
         "children": [
           {
-            "id": "cc87d9dbfa246a58",
+            "id": "e8f1fc57b93fe360",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "app/linux-page/Linux.md",
-                "mode": "source",
-                "source": false
+                "file": "app/GO-page/GO-mindboard.canvas",
+                "viewState": {
+                  "x": -96.5,
+                  "y": 50.10072961373393,
+                  "zoom": -0.7935552564376145
+                }
               },
-              "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "90d76f49feb85ee5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-layout-dashboard",
+              "title": "GO-mindboard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,9 +95,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "app/GO-page/GO-mindboard.canvas"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of GO-mindboard"
+            }
+          },
+          {
+            "id": "cc87d9dbfa246a58",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "app/GO-page/GO-mindboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for GO-mindboard"
             }
           },
           {
@@ -132,11 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "app/GO-page/GO-mindboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from GO-mindboard"
             }
           },
           {
@@ -152,11 +158,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 400
+    "width": 349
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,10 +175,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90d76f49feb85ee5",
+  "active": "e8f1fc57b93fe360",
   "lastOpenFiles": [
+    "app/GO-page/GO.md",
+    "app/GO-page/GO-mindboard.canvas",
     "Untitled.md",
+    "public/GO/go.webp",
+    "public/GO/go.webp.crdownload",
+    "public/GO",
+    "pages/GO-pages/Basics.md",
     "app/linux-page/Linux.md",
+    "pages/GO-pages",
+    "app/GO-page",
     "app/linux-page",
     "pages",
     "app",
@@ -189,14 +204,10 @@
     "public/Linux command 1415cb8f372280e4ae2ad2d296f15ddc/image 4.png",
     "public/Linux command 1415cb8f372280e4ae2ad2d296f15ddc/image 32.png",
     "public/Linux command 1415cb8f372280e4ae2ad2d296f15ddc/image 31.png",
-    "public/Linux command 1415cb8f372280e4ae2ad2d296f15ddc/image 30.png",
     "public/Linux command 1415cb8f372280e4ae2ad2d296f15ddc",
     "Linux/Linux File structure.md",
-    "public/Linux File structure 1415cb8f372280aeb4b3ddb0deaaa02b",
-    "pages/Linux-Pages",
     "hello/Hello World.md",
     "Welcome.md",
-    "2025-01-10.md",
-    "hello"
+    "2025-01-10.md"
   ]
 }
