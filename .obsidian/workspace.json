@@ -11,17 +11,14 @@
             "id": "e8f1fc57b93fe360",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "app/GO-page/GO-mindboard.canvas",
-                "viewState": {
-                  "x": -96.5,
-                  "y": 50.10072961373393,
-                  "zoom": -0.7935552564376145
-                }
+                "file": "Notes/GO-Note/GO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "GO-mindboard"
+              "icon": "lucide-file",
+              "title": "GO"
             }
           }
         ]
@@ -95,11 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "app/GO-page/GO-mindboard.canvas"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of GO-mindboard"
+              "title": "Outline"
             }
           },
           {
@@ -118,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "app/GO-page/GO-mindboard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GO-mindboard"
+              "title": "Backlinks"
             }
           },
           {
@@ -137,12 +131,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "app/GO-page/GO-mindboard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GO-mindboard"
+              "title": "Outgoing links"
             }
           },
           {
@@ -175,25 +168,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8f1fc57b93fe360",
+  "active": "cc87d9dbfa246a58",
   "lastOpenFiles": [
-    "app/GO-page/GO.md",
-    "app/GO-page/GO-mindboard.canvas",
+    "Notes/GO-Note/GO.md",
+    "Notes/GO-Note/GO-mindboard.canvas",
     "Untitled.md",
     "public/GO/go.webp",
     "public/GO/go.webp.crdownload",
     "public/GO",
     "pages/GO-pages/Basics.md",
-    "app/linux-page/Linux.md",
+    "Notes/Linux-Note/Linux.md",
     "pages/GO-pages",
-    "app/GO-page",
-    "app/linux-page",
+    "Notes/GO-Note",
+    "Notes/Linux-Note",
     "pages",
-    "app",
+    "Notes",
     "Linux/pages",
     "pages/Linux-Pages/Linux command.md",
     "public",
-    "app/linux-page/Linux-mindboard.canvas",
+    "Notes/Linux-Note/Linux-mindboard.canvas",
     "pages/Linux-Pages/Linux File Structure.md",
     "public/Linux command 1415cb8f372280e4ae2ad2d296f15ddc/image.png",
     "public/Linux command 1415cb8f372280e4ae2ad2d296f15ddc/image 9.png",
