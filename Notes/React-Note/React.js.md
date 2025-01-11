@@ -26,14 +26,12 @@ npm install
 ```
 
 5. now finally to start this app
+```bash
+npm run dev
+```
 
-<aside>
-<img src="https://www.notion.so/icons/forward_gray.svg" alt="https://www.notion.so/icons/forward_gray.svg" width="40px" /> npm run dev
-
-</aside>
 
 at last this page will come
-
 ![Screenshot 2023-12-21 215733.png](React%20js%20b83ecf919a664da5a650f97e1e1319f4/Screenshot_2023-12-21_215733.png)
 
 
@@ -158,7 +156,7 @@ export default Card;
 
 Props are the information that you pass to a JSX tag.
 
- ***#Example***
+ ***Example***
 
 ***App.jsx***
 ![code.png](React%20js%20b83ecf919a664da5a650f97e1e1319f4/code%203.png)
