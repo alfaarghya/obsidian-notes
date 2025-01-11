@@ -4,35 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "63c1380dda135b6b",
+        "id": "3d6bd0b74cf1ed35",
         "type": "tabs",
         "children": [
           {
-            "id": "9319f2afad113783",
+            "id": "d405e4d5ca0146f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "91b8e3e6ac06c601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "pages/Docker-Pages/Dockerfile.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Docker-Note/Docker-mindboard.canvas",
+                "viewState": {
+                  "x": -126.78033846577787,
+                  "y": -61.95477534749443,
+                  "zoom": -1.250527909484207
+                }
               },
-              "icon": "lucide-file",
-              "title": "Dockerfile"
+              "icon": "lucide-layout-dashboard",
+              "title": "Docker-mindboard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,10 +106,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Docker-Pages/Dockerfile.md"
+                "file": "Notes/Docker-Note/Docker-mindboard.canvas"
               },
               "icon": "lucide-list",
-              "title": "Outline of Dockerfile"
+              "title": "Outline of Docker-mindboard"
             }
           },
           {
@@ -180,12 +172,11 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 373
+    "width": 361
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,20 +186,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "91b8e3e6ac06c601",
+  "active": "d405e4d5ca0146f5",
   "lastOpenFiles": [
     "Notes/Docker-Note/Docker.md",
+    "Notes/Linux-Note/Linux.md",
+    "Notes/React-Note/React.js.md",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4/s5.png",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4/s4.png",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4/s3.png",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4/s2.png",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4/code.png",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4/code 9.png",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4/code 8.png",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4/code 7.png",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4/code 6.png",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4/code 5.png",
+    "public/React js b83ecf919a664da5a650f97e1e1319f4",
+    "Notes/React-Note/React js b83ecf919a664da5a650f97e1e1319f4",
+    "Notes/React-Note/8fdc6b7c-bf87-4f58-9579-158a0af2df09_Export-c83db23e-4618-450d-8720-2666d5994193/React js b83ecf919a664da5a650f97e1e1319f4.md",
+    "Notes/React-Note/8fdc6b7c-bf87-4f58-9579-158a0af2df09_Export-c83db23e-4618-450d-8720-2666d5994193/React js b83ecf919a664da5a650f97e1e1319f4",
+    "Notes/React-Note/8fdc6b7c-bf87-4f58-9579-158a0af2df09_Export-c83db23e-4618-450d-8720-2666d5994193",
+    "Notes/React-Note/8fdc6b7c-bf87-4f58-9579-158a0af2df09_Export-c83db23e-4618-450d-8720-2666d5994193.zip",
+    "Notes/React-Note/Unconfirmed 52510.crdownload",
+    "Notes/React-Note",
+    "pages/Docker-Pages/Dockerfile.md",
     "Notes/Docker-Note/Docker-mindboard.canvas",
     "pages/Docker-Pages/Docker compose.md",
     "pages/Docker-Pages/Layers Deep Drive.md",
     "pages/Docker-Pages/Image vs Container.md",
     "pages/Docker-Pages/Network & volumes.md",
-    "pages/Docker-Pages/Dockerfile.md",
     "pages/Docker-Pages/CLI Command.md",
     "pages/Docker-Pages/Install Docker.md",
     "pages/Docker-Pages/Deep Drive Containerization.md",
@@ -220,26 +229,8 @@
     "pages/Docker-Pages/9212e384-efd8-494e-b66c-674e832adfd9_Export-6c95939b-1f63-4038-9a22-e179738ca259/Dockerfile 16e5cb8f37228032be60c6ebd6fc861a.md",
     "pages/Docker-Pages/9212e384-efd8-494e-b66c-674e832adfd9_Export-6c95939b-1f63-4038-9a22-e179738ca259",
     "pages/Docker-Pages/7d837d47-5b40-49f8-ae31-808d57a8ac07_Export-0aab49d4-f855-4abd-90eb-999c8206d890/Docker Command 16d5cb8f3722808892fbeb3fbafaca8e.md",
-    "pages/Docker-Pages/7d837d47-5b40-49f8-ae31-808d57a8ac07_Export-0aab49d4-f855-4abd-90eb-999c8206d890",
-    "pages/Docker-Pages/cc05e133-66a2-497f-b557-eef6f7d05930_Export-ba81f922-1d73-4946-879a-25f1aae7c5db.zip",
-    "pages/Docker-Pages/Unconfirmed 759863.crdownload",
-    "pages/Docker-Pages/9212e384-efd8-494e-b66c-674e832adfd9_Export-6c95939b-1f63-4038-9a22-e179738ca259.zip",
-    "pages/Docker-Pages/Unconfirmed 189589.crdownload",
-    "pages/Docker-Pages/7d837d47-5b40-49f8-ae31-808d57a8ac07_Export-0aab49d4-f855-4abd-90eb-999c8206d890.zip",
-    "pages/Docker-Pages/Unconfirmed 287897.crdownload",
     "pages/GO-pages/Basics.md",
-    "public/Docker b32a6be1c4274eff9bed8fcd0dc65e0c/s9.png",
-    "public/Docker b32a6be1c4274eff9bed8fcd0dc65e0c/s8.png",
-    "public/Docker b32a6be1c4274eff9bed8fcd0dc65e0c/s7.png",
-    "public/Docker b32a6be1c4274eff9bed8fcd0dc65e0c/s6.png",
-    "public/Docker b32a6be1c4274eff9bed8fcd0dc65e0c/s5.png",
-    "public/Docker b32a6be1c4274eff9bed8fcd0dc65e0c/s4.png",
-    "public/Docker b32a6be1c4274eff9bed8fcd0dc65e0c/s3.png",
-    "public/Docker b32a6be1c4274eff9bed8fcd0dc65e0c/s2.png",
-    "public/Docker b32a6be1c4274eff9bed8fcd0dc65e0c/s16.png",
-    "public/Docker b32a6be1c4274eff9bed8fcd0dc65e0c/s15.png",
     "bdb538d5-6d46-4525-b079-0f65766df448_Export-db908e5d-047e-47c0-95b6-bafa27028510/Docker b32a6be1c4274eff9bed8fcd0dc65e0c.md",
-    "Notes/Linux-Note/Linux.md",
     "Notes/GO-Note/GO.md",
     "pages/Linux-Pages/Linux File Structure.md",
     "pages/Linux-Pages/Linux command.md",
@@ -247,7 +238,6 @@
     "Notes/Linux-Note/Linux-mindboard.canvas",
     "Linux/Linux File structure.md",
     "hello/Hello World.md",
-    "Welcome.md",
-    "2025-01-10.md"
+    "Welcome.md"
   ]
 }
