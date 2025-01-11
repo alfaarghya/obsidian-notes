@@ -106,10 +106,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Docker-Note/Docker-mindboard.canvas"
+                "file": "Excalidraw/Drawing 2025-01-11 20.04.57.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Docker-mindboard"
+              "title": "Outline of Drawing 2025-01-11 20.04.57.excalidraw"
             }
           },
           {
@@ -186,11 +186,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d405e4d5ca0146f5",
+  "active": "ea63b9e7274201fd",
   "lastOpenFiles": [
+    "Notes/Docker-Note/Docker-mindboard.canvas",
+    "Excalidraw/Drawing 2025-01-11 20.04.57.excalidraw.md",
+    "Excalidraw",
     "Notes/Docker-Note/Docker.md",
     "Notes/Linux-Note/Linux.md",
     "Notes/React-Note/React.js.md",
@@ -213,7 +217,6 @@
     "Notes/React-Note/Unconfirmed 52510.crdownload",
     "Notes/React-Note",
     "pages/Docker-Pages/Dockerfile.md",
-    "Notes/Docker-Note/Docker-mindboard.canvas",
     "pages/Docker-Pages/Docker compose.md",
     "pages/Docker-Pages/Layers Deep Drive.md",
     "pages/Docker-Pages/Image vs Container.md",
@@ -227,7 +230,6 @@
     "pages/Docker-Pages/cc05e133-66a2-497f-b557-eef6f7d05930_Export-ba81f922-1d73-4946-879a-25f1aae7c5db/Docker compose 16e5cb8f372280808528e982fb876d96.md",
     "pages/Docker-Pages/cc05e133-66a2-497f-b557-eef6f7d05930_Export-ba81f922-1d73-4946-879a-25f1aae7c5db",
     "pages/Docker-Pages/9212e384-efd8-494e-b66c-674e832adfd9_Export-6c95939b-1f63-4038-9a22-e179738ca259/Dockerfile 16e5cb8f37228032be60c6ebd6fc861a.md",
-    "pages/Docker-Pages/9212e384-efd8-494e-b66c-674e832adfd9_Export-6c95939b-1f63-4038-9a22-e179738ca259",
     "pages/Docker-Pages/7d837d47-5b40-49f8-ae31-808d57a8ac07_Export-0aab49d4-f855-4abd-90eb-999c8206d890/Docker Command 16d5cb8f3722808892fbeb3fbafaca8e.md",
     "pages/GO-pages/Basics.md",
     "bdb538d5-6d46-4525-b079-0f65766df448_Export-db908e5d-047e-47c0-95b6-bafa27028510/Docker b32a6be1c4274eff9bed8fcd0dc65e0c.md",
@@ -237,7 +239,6 @@
     "Notes/GO-Note/GO-mindboard.canvas",
     "Notes/Linux-Note/Linux-mindboard.canvas",
     "Linux/Linux File structure.md",
-    "hello/Hello World.md",
-    "Welcome.md"
+    "hello/Hello World.md"
   ]
 }
