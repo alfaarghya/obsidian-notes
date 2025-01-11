@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d6bd0b74cf1ed35",
+        "id": "73afbd0c41ec3263",
         "type": "tabs",
         "children": [
           {
-            "id": "d405e4d5ca0146f5",
+            "id": "3f86aa9fb0713840",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Notes/Docker-Note/Docker-mindboard.canvas",
-                "viewState": {
-                  "x": -126.78033846577787,
-                  "y": -61.95477534749443,
-                  "zoom": -1.250527909484207
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Docker-mindboard"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -105,11 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-11 20.04.57.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-01-11 20.04.57.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -192,8 +183,10 @@
   },
   "active": "ea63b9e7274201fd",
   "lastOpenFiles": [
-    "Notes/Docker-Note/Docker-mindboard.canvas",
+    "README.md",
     "Excalidraw/Drawing 2025-01-11 20.04.57.excalidraw.md",
+    "public/obsidian-icon.png",
+    "Notes/Docker-Note/Docker-mindboard.canvas",
     "Excalidraw",
     "Notes/Docker-Note/Docker.md",
     "Notes/Linux-Note/Linux.md",
@@ -207,7 +200,6 @@
     "public/React js b83ecf919a664da5a650f97e1e1319f4/code 8.png",
     "public/React js b83ecf919a664da5a650f97e1e1319f4/code 7.png",
     "public/React js b83ecf919a664da5a650f97e1e1319f4/code 6.png",
-    "public/React js b83ecf919a664da5a650f97e1e1319f4/code 5.png",
     "public/React js b83ecf919a664da5a650f97e1e1319f4",
     "Notes/React-Note/React js b83ecf919a664da5a650f97e1e1319f4",
     "Notes/React-Note/8fdc6b7c-bf87-4f58-9579-158a0af2df09_Export-c83db23e-4618-450d-8720-2666d5994193/React js b83ecf919a664da5a650f97e1e1319f4.md",
@@ -238,7 +230,6 @@
     "pages/Linux-Pages/Linux command.md",
     "Notes/GO-Note/GO-mindboard.canvas",
     "Notes/Linux-Note/Linux-mindboard.canvas",
-    "Linux/Linux File structure.md",
-    "hello/Hello World.md"
+    "Linux/Linux File structure.md"
   ]
 }
