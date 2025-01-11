@@ -137,8 +137,8 @@ const variable2 = value //with out type
 ## Data Types
 
 #### 1. **numeric**
-
 a. **Integer** - this data types are used to store a whole number without decimals, like 10, -110, or 1503450. The integer data type has two categories:
+
 - **Signed integers** - can store both positive and negative values
 
 ```go
@@ -148,19 +148,16 @@ var x int = 500
 var y int = -4500
 
 ```
+
 Go has five keywords/types of signed integers -
 
-
-
-| type | size | range |
-| --- | --- | --- |
-| `int` | can be 32 bits or 64 bits | 2147483648 to 2147483647 in 32 bit OR -9223372036854775808 to 9223372036854775807 in 64 bit |
-| `int8` | 8 bits or 1 byte | -128 to 127 |
-| `int16` | 16 bits or 4 byte | -32768 to 32767 |
-| `int32` | 32 bits or 4 byte | -2147483648 to 2147483647 |
-| `int64` | 64 bits or 8 byte | -9223372036854775808 to 9223372036854775807 |
-
-  
+| type    | size                      | range                                                                                       |
+| ------- | ------------------------- | ------------------------------------------------------------------------------------------- |
+| `int`   | can be 32 bits or 64 bits | 2147483648 to 2147483647 in 32 bit OR -9223372036854775808 to 9223372036854775807 in 64 bit |
+| `int8`  | 8 bits or 1 byte          | -128 to 127                                                                                 |
+| `int16` | 16 bits or 4 byte         | -32768 to 32767                                                                             |
+| `int32` | 32 bits or 4 byte         | -2147483648 to 2147483647                                                                   |
+| `int64` | 64 bits or 8 byte         | -9223372036854775808 to 9223372036854775807                                                 |
 
 - **Unsigned integers** - can only store non-negative values
 
@@ -171,17 +168,16 @@ var x uint = 500
 var y uint = 4500
 
 ```
+
 Go has five keywords/types of signed integers -
 
-| type | size | range |
-| ---| --- | --- |
-| `uint` | can be 32 bits or 64 bits | 0 to 4294967295 in 32 bit OR 0 to 18446744073709551615 in 64 bit |
-| `uint8` | 8 bits or 1 byte | 0 to 255 |
-| `uint16` | 16 bits or 4 byte | 0 to 65535 |
-| `uint32` | 32 bits or 4 byte | 0 to 4294967295 |
-| `uint64` | 64 bits or 8 byte | 0 to 18446744073709551615 |
-
-  
+| type     | size                      | range                                                            |
+| -------- | ------------------------- | ---------------------------------------------------------------- |
+| `uint`   | can be 32 bits or 64 bits | 0 to 4294967295 in 32 bit OR 0 to 18446744073709551615 in 64 bit |
+| `uint8`  | 8 bits or 1 byte          | 0 to 255                                                         |
+| `uint16` | 16 bits or 4 byte         | 0 to 65535                                                       |
+| `uint32` | 32 bits or 4 byte         | 0 to 4294967295                                                  |
+| `uint64` | 64 bits or 8 byte         | 0 to 18446744073709551615                                        |
 
 #### 2. **float -** this data types are used to store positive and negative numbers with a decimal point, like 10.10, -2.53, or 4397.34587.
 
@@ -192,7 +188,6 @@ Go float data type has two keywords -
 | `float32` | 32 bits or 4 byte | -3.4e+38 to 3.4e+38. |
 | `float64` | 64 bits or 8 byte | -1.7e+308 to +1.7e+308. |
 
-  
 #### 3. **string**
 The `string` data type is used to store a sequence of characters (text). String values must be surrounded by double quotes.
 
@@ -317,7 +312,6 @@ if(age == 18) {
 
 ```
 
-  
 
 - Use `switch` to specify many alternative blocks of code to be executed  
 
