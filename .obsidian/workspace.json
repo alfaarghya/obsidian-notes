@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Notes/JS-TS-Note/TypeScript.md",
+                "file": "NOTES/Notes/GO-Note/GO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TypeScript"
+              "title": "GO"
             }
           },
           {
@@ -113,10 +113,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Notes/JS-TS-Note/TypeScript.md"
+                "file": "NOTES/Notes/GO-Note/GO.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of TypeScript"
+              "title": "Outline of GO"
             }
           },
           {
@@ -197,15 +197,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea63b9e7274201fd",
+  "active": "0ac951fca8c9fb11",
   "lastOpenFiles": [
+    "README.md",
+    "NOTES/Notes/JS-TS-Note/TypeScript.md",
     "NOTES/Notes/DSA-Note",
     "PRACTICE",
     "PROJECTS",
     "SUGGESTION",
     "PLANNER",
     "NOTES",
-    "NOTES/Notes/JS-TS-Note/TypeScript.md",
     "NOTES/Notes/JS-TS-Note",
     "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code2.png",
     "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code1.png",
@@ -221,10 +222,8 @@
     "a19dc17e-26d8-4e84-8690-70b6a7e9ce64_Export-b9a07f92-ad2b-4f28-9315-dbb91ce6c918/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3.md",
     "a19dc17e-26d8-4e84-8690-70b6a7e9ce64_Export-b9a07f92-ad2b-4f28-9315-dbb91ce6c918/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3",
     "a19dc17e-26d8-4e84-8690-70b6a7e9ce64_Export-b9a07f92-ad2b-4f28-9315-dbb91ce6c918",
-    "a19dc17e-26d8-4e84-8690-70b6a7e9ce64_Export-b9a07f92-ad2b-4f28-9315-dbb91ce6c918.zip",
     "NOTES/Notes/Docker-Note/Docker.md",
     "NOTES/Notes/React-Note/React.js.md",
-    "README.md",
     "Excalidraw/Drawing 2025-01-11 20.04.57.excalidraw.md",
     "NOTES/Notes/Docker-Note/Docker-mindboard.canvas",
     "NOTES/Notes/Linux-Note/Linux.md",
