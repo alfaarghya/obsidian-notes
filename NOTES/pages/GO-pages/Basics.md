@@ -1114,3 +1114,52 @@ NOTE - if we don’t put a value in memory, and try to access the memory it only
 3. **Assign or Access the value in Pointer:** `*ptr` is used to access or update or assign the value on that memory address.
 
 4. **Reference to already available value:** `ptr := &x` is the way to access the memory address of a available value.
+
+---
+## Handel Files
+Like all other languages, In GO we can read & write files withe the help of `os` & `io` packages
+```GO
+package main
+
+import (
+"fmt"
+"io"
+"os"
+)
+
+func main() {
+	content := "it's a content, that I want to write to a file"
+	writeFile("./newFile.txt", content)
+	readFile("./newFile.txt")
+}
+
+  
+
+func writeFile(fileName string, content string) {
+	file, err := os.Create(fileName) //create a file
+
+	if err != nil { //if catch the error
+		panic(err) //stop the execution
+}
+
+	length, err := io.WriteString(file, content) //write the content to the file
+
+	if err != nil { //if catch the error
+		panic(err) //stop the execution
+}
+
+	fmt.Println("length >> ", length)
+
+	defer file.Close() //close the file
+}
+
+func readFile(fileName string) {
+
+	databyte, err := os.ReadFile(fileName)
+
+	if err != nil { //if catch the error
+		panic(err) //stop the execution
+}
+	fmt.Println(string(databyte))
+}
+```

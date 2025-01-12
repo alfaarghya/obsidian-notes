@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/Notes/GO-Note/GO.md",
+                "file": "NOTES/pages/GO-pages/Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GO"
+              "title": "Basics"
             }
           },
           {
@@ -113,10 +113,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/Notes/GO-Note/GO.md"
+                "file": "NOTES/pages/GO-pages/Basics.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of GO"
+              "title": "Outline of Basics"
             }
           },
           {
@@ -199,6 +199,7 @@
   },
   "active": "0ac951fca8c9fb11",
   "lastOpenFiles": [
+    "NOTES/Notes/GO-Note/GO.md",
     "README.md",
     "NOTES/Notes/JS-TS-Note/TypeScript.md",
     "NOTES/Notes/DSA-Note",
@@ -243,7 +244,6 @@
     "pages/Docker-Pages/7d837d47-5b40-49f8-ae31-808d57a8ac07_Export-0aab49d4-f855-4abd-90eb-999c8206d890/Docker Command 16d5cb8f3722808892fbeb3fbafaca8e.md",
     "NOTES/pages/GO-pages/Basics.md",
     "bdb538d5-6d46-4525-b079-0f65766df448_Export-db908e5d-047e-47c0-95b6-bafa27028510/Docker b32a6be1c4274eff9bed8fcd0dc65e0c.md",
-    "NOTES/Notes/GO-Note/GO.md",
     "NOTES/pages/Linux-Pages/Linux File Structure.md",
     "NOTES/Notes/GO-Note/GO-mindboard.canvas",
     "NOTES/Notes/Linux-Note/Linux-mindboard.canvas"
