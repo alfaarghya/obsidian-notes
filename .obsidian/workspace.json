@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/JS-TS-Note/TypeScript.md",
+                "file": "NOTES/Notes/JS-TS-Note/TypeScript.md",
                 "mode": "source",
                 "source": false
               },
@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,9 +112,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "NOTES/Notes/JS-TS-Note/TypeScript.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of TypeScript"
             }
           },
           {
@@ -198,9 +199,14 @@
   },
   "active": "ea63b9e7274201fd",
   "lastOpenFiles": [
-    "Untitled",
-    "Notes/JS-TS-Note/TypeScript.md",
-    "Notes/JS-TS-Note",
+    "NOTES/Notes/DSA-Note",
+    "PRACTICE",
+    "PROJECTS",
+    "SUGGESTION",
+    "PLANNER",
+    "NOTES",
+    "NOTES/Notes/JS-TS-Note/TypeScript.md",
+    "NOTES/Notes/JS-TS-Note",
     "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code2.png",
     "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code1.png",
     "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code1 1.png",
@@ -216,36 +222,31 @@
     "a19dc17e-26d8-4e84-8690-70b6a7e9ce64_Export-b9a07f92-ad2b-4f28-9315-dbb91ce6c918/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3",
     "a19dc17e-26d8-4e84-8690-70b6a7e9ce64_Export-b9a07f92-ad2b-4f28-9315-dbb91ce6c918",
     "a19dc17e-26d8-4e84-8690-70b6a7e9ce64_Export-b9a07f92-ad2b-4f28-9315-dbb91ce6c918.zip",
-    "Unconfirmed 411745.crdownload",
-    "Notes/Docker-Note/Docker.md",
-    "Notes/React-Note/React.js.md",
+    "NOTES/Notes/Docker-Note/Docker.md",
+    "NOTES/Notes/React-Note/React.js.md",
     "README.md",
     "Excalidraw/Drawing 2025-01-11 20.04.57.excalidraw.md",
-    "Notes/Docker-Note/Docker-mindboard.canvas",
-    "Excalidraw",
-    "Notes/Linux-Note/Linux.md",
-    "public/React js b83ecf919a664da5a650f97e1e1319f4",
-    "Notes/React-Note/React js b83ecf919a664da5a650f97e1e1319f4",
+    "NOTES/Notes/Docker-Note/Docker-mindboard.canvas",
+    "NOTES/Notes/Linux-Note/Linux.md",
     "Notes/React-Note/8fdc6b7c-bf87-4f58-9579-158a0af2df09_Export-c83db23e-4618-450d-8720-2666d5994193/React js b83ecf919a664da5a650f97e1e1319f4.md",
-    "Notes/React-Note/8fdc6b7c-bf87-4f58-9579-158a0af2df09_Export-c83db23e-4618-450d-8720-2666d5994193/React js b83ecf919a664da5a650f97e1e1319f4",
-    "pages/Docker-Pages/Dockerfile.md",
-    "pages/Docker-Pages/Docker compose.md",
-    "pages/Docker-Pages/Layers Deep Drive.md",
-    "pages/Docker-Pages/Image vs Container.md",
-    "pages/Docker-Pages/Network & volumes.md",
-    "pages/Docker-Pages/CLI Command.md",
-    "pages/Docker-Pages/Install Docker.md",
-    "pages/Docker-Pages/Deep Drive Containerization.md",
-    "pages/Docker-Pages/Why Docker ??.md",
-    "pages/Docker-Pages/History of Docker.md",
+    "NOTES/pages/Docker-Pages/Dockerfile.md",
+    "NOTES/pages/Docker-Pages/Docker compose.md",
+    "NOTES/pages/Docker-Pages/Layers Deep Drive.md",
+    "NOTES/pages/Docker-Pages/Image vs Container.md",
+    "NOTES/pages/Docker-Pages/Network & volumes.md",
+    "NOTES/pages/Docker-Pages/CLI Command.md",
+    "NOTES/pages/Docker-Pages/Install Docker.md",
+    "NOTES/pages/Docker-Pages/Deep Drive Containerization.md",
+    "NOTES/pages/Docker-Pages/Why Docker ??.md",
+    "NOTES/pages/Docker-Pages/History of Docker.md",
     "pages/Docker-Pages/cc05e133-66a2-497f-b557-eef6f7d05930_Export-ba81f922-1d73-4946-879a-25f1aae7c5db/Docker compose 16e5cb8f372280808528e982fb876d96.md",
     "pages/Docker-Pages/9212e384-efd8-494e-b66c-674e832adfd9_Export-6c95939b-1f63-4038-9a22-e179738ca259/Dockerfile 16e5cb8f37228032be60c6ebd6fc861a.md",
     "pages/Docker-Pages/7d837d47-5b40-49f8-ae31-808d57a8ac07_Export-0aab49d4-f855-4abd-90eb-999c8206d890/Docker Command 16d5cb8f3722808892fbeb3fbafaca8e.md",
-    "pages/GO-pages/Basics.md",
+    "NOTES/pages/GO-pages/Basics.md",
     "bdb538d5-6d46-4525-b079-0f65766df448_Export-db908e5d-047e-47c0-95b6-bafa27028510/Docker b32a6be1c4274eff9bed8fcd0dc65e0c.md",
-    "Notes/GO-Note/GO.md",
-    "pages/Linux-Pages/Linux File Structure.md",
-    "Notes/GO-Note/GO-mindboard.canvas",
-    "Notes/Linux-Note/Linux-mindboard.canvas"
+    "NOTES/Notes/GO-Note/GO.md",
+    "NOTES/pages/Linux-Pages/Linux File Structure.md",
+    "NOTES/Notes/GO-Note/GO-mindboard.canvas",
+    "NOTES/Notes/Linux-Note/Linux-mindboard.canvas"
   ]
 }

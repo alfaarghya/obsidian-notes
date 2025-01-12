@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"f777055db164c274","type":"file","file":"pages/Docker-Pages/Why Docker ??.md","x":-520,"y":-100,"width":400,"height":400},
-		{"id":"6638c4ec539b11a0","type":"file","file":"pages/Docker-Pages/Deep Drive Containerization.md","x":60,"y":-100,"width":400,"height":400},
-		{"id":"1e6fcdae74ff350b","type":"file","file":"pages/Docker-Pages/Image vs Container.md","x":-240,"y":500,"width":400,"height":400},
-		{"id":"1c5b1e9019b08b28","type":"file","file":"pages/Docker-Pages/CLI Command.md","x":-880,"y":-680,"width":400,"height":400},
-		{"id":"8d27bb87bbb2c354","type":"file","file":"Notes/Docker-Note/Docker.md","x":-240,"y":-900,"width":400,"height":400},
-		{"id":"774922dc7c5ebd49","type":"file","file":"pages/Docker-Pages/Install Docker.md","x":380,"y":-680,"width":400,"height":400},
-		{"id":"865b4072ed1376a1","type":"file","file":"pages/Docker-Pages/Dockerfile.md","x":-1040,"y":240,"width":400,"height":400},
-		{"id":"bfab9d4360e41ff5","x":-1280,"y":800,"width":400,"height":400,"type":"file","file":"pages/Docker-Pages/Layers Deep Drive.md"},
-		{"id":"205f07ee2d1f97b5","x":-720,"y":800,"width":400,"height":400,"type":"file","file":"pages/Docker-Pages/Network & volumes.md"},
-		{"id":"32b00f84985b2b98","x":-920,"y":1360,"width":400,"height":400,"type":"file","file":"pages/Docker-Pages/Docker compose.md"}
+		{"id":"f777055db164c274","type":"file","file":"NOTES/pages/Docker-Pages/Why Docker ??.md","x":-520,"y":-100,"width":400,"height":400},
+		{"id":"6638c4ec539b11a0","type":"file","file":"NOTES/pages/Docker-Pages/Deep Drive Containerization.md","x":60,"y":-100,"width":400,"height":400},
+		{"id":"1e6fcdae74ff350b","type":"file","file":"NOTES/pages/Docker-Pages/Image vs Container.md","x":-240,"y":500,"width":400,"height":400},
+		{"id":"1c5b1e9019b08b28","type":"file","file":"NOTES/pages/Docker-Pages/CLI Command.md","x":-880,"y":-680,"width":400,"height":400},
+		{"id":"8d27bb87bbb2c354","type":"file","file":"NOTES/Notes/Docker-Note/Docker.md","x":-240,"y":-900,"width":400,"height":400},
+		{"id":"774922dc7c5ebd49","type":"file","file":"NOTES/pages/Docker-Pages/Install Docker.md","x":380,"y":-680,"width":400,"height":400},
+		{"id":"865b4072ed1376a1","type":"file","file":"NOTES/pages/Docker-Pages/Dockerfile.md","x":-1040,"y":240,"width":400,"height":400},
+		{"id":"bfab9d4360e41ff5","x":-1280,"y":800,"width":400,"height":400,"type":"file","file":"NOTES/pages/Docker-Pages/Layers Deep Drive.md"},
+		{"id":"205f07ee2d1f97b5","x":-720,"y":800,"width":400,"height":400,"type":"file","file":"NOTES/pages/Docker-Pages/Network & volumes.md"},
+		{"id":"32b00f84985b2b98","x":-920,"y":1360,"width":400,"height":400,"type":"file","file":"NOTES/pages/Docker-Pages/Docker compose.md"}
 	],
 	"edges":[
 		{"id":"7594602c24cfe403","fromNode":"8d27bb87bbb2c354","fromSide":"bottom","toNode":"f777055db164c274","toSide":"top"},

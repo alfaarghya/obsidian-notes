@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Notes  ",
+      "query": "path:NOTES/Notes",
       "color": {
         "a": 1,
         "rgb": 16052464
       }
     },
     {
-      "query": "path:pages  ",
+      "query": "path:NOTES/pages  ",
       "color": {
         "a": 1,
         "rgb": 8553090
@@ -32,6 +32,6 @@
   "repelStrength": 9.6875,
   "linkStrength": 1,
   "linkDistance": 199,
-  "scale": 0.1316872427983539,
+  "scale": 1,
   "close": true
 }
