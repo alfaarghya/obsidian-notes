@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Notes  ",
+      "color": {
+        "a": 1,
+        "rgb": 16052464
+      }
+    },
+    {
+      "query": "path:pages  ",
+      "color": {
+        "a": 1,
+        "rgb": 8553090
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.1,
@@ -17,6 +32,6 @@
   "repelStrength": 9.6875,
   "linkStrength": 1,
   "linkDistance": 199,
-  "scale": 1,
+  "scale": 0.1316872427983539,
   "close": true
 }
