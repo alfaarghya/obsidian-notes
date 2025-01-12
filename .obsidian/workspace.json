@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "73afbd0c41ec3263",
+        "id": "5b88aac5f17644f9",
         "type": "tabs",
         "children": [
           {
-            "id": "3f86aa9fb0713840",
+            "id": "28549cf4b162a2af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -83,11 +79,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266
   },
   "right": {
     "id": "f0413eb92a23db4d",
@@ -102,11 +99,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -173,7 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361
+    "width": 305
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,16 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f86aa9fb0713840",
+  "active": "28549cf4b162a2af",
   "lastOpenFiles": [
+    "Notes/Docker-Note/Docker.md",
+    "Notes/React-Note/React.js.md",
     "README.md",
     "Excalidraw/Drawing 2025-01-11 20.04.57.excalidraw.md",
     "public/obsidian-icon.png",
     "Notes/Docker-Note/Docker-mindboard.canvas",
     "Excalidraw",
-    "Notes/Docker-Note/Docker.md",
     "Notes/Linux-Note/Linux.md",
-    "Notes/React-Note/React.js.md",
     "public/React js b83ecf919a664da5a650f97e1e1319f4/s5.png",
     "public/React js b83ecf919a664da5a650f97e1e1319f4/s4.png",
     "public/React js b83ecf919a664da5a650f97e1e1319f4/s3.png",
