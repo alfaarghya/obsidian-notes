@@ -1,9 +1,23 @@
 {
 	"nodes":[
-		{"id":"535c4ef619da7119","x":-240,"y":-420,"width":400,"height":400,"type":"file","file":"NOTES/Notes/GO-Note/GO.md"},
-		{"id":"f7462aa9de010519","x":-440,"y":60,"width":400,"height":400,"type":"file","file":"NOTES/pages/GO-pages/Basics.md"}
+		{"id":"535c4ef619da7119","type":"file","file":"NOTES/Notes/GO-Note/GO.md","x":-240,"y":-420,"width":400,"height":400},
+		{"id":"f7462aa9de010519","type":"file","file":"NOTES/pages/GO-pages/Basics.md","x":-700,"y":-270,"width":400,"height":400},
+		{"id":"89fc7868888f64c7","type":"file","file":"NOTES/pages/GO-pages/GO commands.md","x":220,"y":-240,"width":400,"height":400},
+		{"id":"7b3299ee61d52afe","type":"file","file":"NOTES/pages/GO-pages/Backend/Fiber.md","x":-720,"y":420,"width":400,"height":400},
+		{"id":"4ba8cc10daf2f163","type":"file","file":"NOTES/pages/GO-pages/Projects/Todo app.md","x":-765,"y":940,"width":400,"height":400},
+		{"id":"4be39f37a193a591","type":"text","text":"# BACKEND","x":-320,"y":200,"width":250,"height":60},
+		{"id":"2b31a8cfaf83c411","x":-70,"y":540,"width":400,"height":400,"type":"file","file":"NOTES/pages/GO-pages/Packages/air.md"},
+		{"id":"6164bf607af35be3","type":"text","text":"# PACKAGE","x":80,"y":260,"width":250,"height":60},
+		{"id":"4a28847a8e023c6d","type":"file","file":"NOTES/pages/GO-pages/Packages/godotenv.md","x":420,"y":540,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"06e311326bfb1159","fromNode":"535c4ef619da7119","fromSide":"bottom","toNode":"f7462aa9de010519","toSide":"top"}
+		{"id":"e00c441958af4123","fromNode":"535c4ef619da7119","fromSide":"left","toNode":"f7462aa9de010519","toSide":"top"},
+		{"id":"7d81ce49098b2a17","fromNode":"535c4ef619da7119","fromSide":"bottom","toNode":"6164bf607af35be3","toSide":"top"},
+		{"id":"53eb51bd2cd0ffbc","fromNode":"535c4ef619da7119","fromSide":"right","toNode":"89fc7868888f64c7","toSide":"top"},
+		{"id":"c0d81fa49eb54bce","fromNode":"6164bf607af35be3","fromSide":"bottom","toNode":"4a28847a8e023c6d","toSide":"top"},
+		{"id":"31ec68cf5a62c0ff","fromNode":"535c4ef619da7119","fromSide":"bottom","toNode":"4be39f37a193a591","toSide":"top"},
+		{"id":"7c1c18a42e01ba23","fromNode":"4be39f37a193a591","fromSide":"bottom","toNode":"7b3299ee61d52afe","toSide":"top"},
+		{"id":"bd75355a29645ebe","fromNode":"7b3299ee61d52afe","fromSide":"bottom","toNode":"4ba8cc10daf2f163","toSide":"top"},
+		{"id":"0f4f75973a300a3b","fromNode":"6164bf607af35be3","fromSide":"bottom","toNode":"2b31a8cfaf83c411","toSide":"top"}
 	]
 }

@@ -41,3 +41,18 @@ https://go.dev/doc/install
 https://go.dev/ref/spec
 
 ---
+## [[GO commands]]
+
+---
+## Packages
+### [[godotenv]]
+It can be used as a library for loading in env 
+
+### [[air]]
+ Live reload for Go apps
+ 
+---
+## Backend Development
+there are many framework or packages to develop backend APIs in GO lang
+### [[Fiber]]
+**Fiber** is an [Express](https://github.com/expressjs/express) inspired **web framework** built on top of [Fasthttp](https://github.com/valyala/fasthttp), the **fastest** HTTP engine for [Go](https://go.dev/doc/). Designed to **ease** things up for **fast** development with **zero memory allocation** and **performance** in mind.

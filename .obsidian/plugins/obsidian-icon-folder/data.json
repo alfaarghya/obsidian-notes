@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#8f62ea",
     "recentlyUsedIcons": [
+      "LiPackage",
+      "OcProject16",
+      "FasServer",
       "SiExcalidraw",
-      "SiReadme",
-      "OcFeedPublic16",
-      "SiLinux",
-      "SiGoland"
+      "SiReadme"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -66,5 +66,8 @@
   "NOTES/pages/Linux-Pages": "SiLinux",
   "public": "OcFeedPublic16",
   "README.md": "SiReadme",
-  "Excalidraw": "SiExcalidraw"
+  "Excalidraw": "SiExcalidraw",
+  "NOTES/pages/GO-pages/Backend": "FasServer",
+  "NOTES/pages/GO-pages/Projects": "OcProject16",
+  "NOTES/pages/GO-pages/Packages": "LiPackage"
 }
