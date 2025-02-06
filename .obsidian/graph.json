@@ -20,9 +20,16 @@
         "a": 1,
         "rgb": 8553090
       }
+    },
+    {
+      "query": "path:NOTES/Canvas  ",
+      "color": {
+        "a": 1,
+        "rgb": 9079536
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1.4015625,
@@ -32,6 +39,6 @@
   "repelStrength": 9.6875,
   "linkStrength": 1,
   "linkDistance": 199,
-  "scale": 1,
+  "scale": 0.2962962962962963,
   "close": true
 }

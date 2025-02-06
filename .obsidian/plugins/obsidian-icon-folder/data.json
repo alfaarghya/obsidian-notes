@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#8f62ea",
     "recentlyUsedIcons": [
+      "FasImagePortrait",
       "LiPackage",
       "OcProject16",
       "FasServer",
-      "SiExcalidraw",
-      "SiReadme"
+      "SiExcalidraw"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,12 +43,9 @@
   "NOTES/Notes/Linux-Note": "SiLinux",
   "NOTES/Notes/React-Note": "SiReact",
   "NOTES/Notes/Docker-Note/Docker.md": "FabDocker",
-  "NOTES/Notes/Docker-Note/Docker-mindboard.canvas": "BoBxlDocker",
   "NOTES/Notes/GO-Note/GO.md": "SiGo",
-  "NOTES/Notes/GO-Note/GO-mindboard.canvas": "TiBrandGolang",
   "NOTES/Notes/JS-TS-Note/TypeScript.md": "BoBxlTypescript",
   "NOTES/Notes/Linux-Note/Linux.md": "FabLinux",
-  "NOTES/Notes/Linux-Note/Linux-mindboard.canvas": "FabLinux",
   "NOTES/pages/Docker-Pages/CLI Command.md": "OcCommandPalette16",
   "NOTES/pages/Linux-Pages/Linux command.md": "OcCommandPalette16",
   "NOTES/pages/Linux-Pages/Linux File Structure.md": "CoFolders",
@@ -69,5 +66,9 @@
   "Excalidraw": "SiExcalidraw",
   "NOTES/pages/GO-pages/Backend": "FasServer",
   "NOTES/pages/GO-pages/Projects": "OcProject16",
-  "NOTES/pages/GO-pages/Packages": "LiPackage"
+  "NOTES/pages/GO-pages/Packages": "LiPackage",
+  "NOTES/Canvas": "FasImagePortrait",
+  "NOTES/Canvas/Docker-mindboard.canvas": "BoBxlDocker",
+  "NOTES/Canvas/GO-mindboard.canvas": "TiBrandGolang",
+  "NOTES/Canvas/Linux-mindboard.canvas": "FabLinux"
 }
