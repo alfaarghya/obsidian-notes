@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#8f62ea",
     "recentlyUsedIcons": [
-      "FasImagePortrait",
-      "LiPackage",
-      "OcProject16",
-      "FasServer",
-      "SiExcalidraw"
+      "SiTurborepo",
+      "FabReact",
+      "IbWebsiteWithText",
+      "SiDevdotto",
+      "FabDev"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,12 +39,9 @@
   "NOTES/pages": "RiPagesLine",
   "NOTES/Notes/Docker-Note": "SiDocker",
   "NOTES/Notes/GO-Note": "SiGoland",
-  "NOTES/Notes/JS-TS-Note": "SiJavascript",
   "NOTES/Notes/Linux-Note": "SiLinux",
-  "NOTES/Notes/React-Note": "SiReact",
   "NOTES/Notes/Docker-Note/Docker.md": "FabDocker",
   "NOTES/Notes/GO-Note/GO.md": "SiGo",
-  "NOTES/Notes/JS-TS-Note/TypeScript.md": "BoBxlTypescript",
   "NOTES/Notes/Linux-Note/Linux.md": "FabLinux",
   "NOTES/pages/Docker-Pages/CLI Command.md": "OcCommandPalette16",
   "NOTES/pages/Linux-Pages/Linux command.md": "OcCommandPalette16",
@@ -70,5 +67,13 @@
   "NOTES/Canvas": "FasImagePortrait",
   "NOTES/Canvas/Docker-mindboard.canvas": "BoBxlDocker",
   "NOTES/Canvas/GO-mindboard.canvas": "TiBrandGolang",
-  "NOTES/Canvas/Linux-mindboard.canvas": "FabLinux"
+  "NOTES/Canvas/Linux-mindboard.canvas": "FabLinux",
+  "NOTES/pages/Development-pages": "SiDevdotto",
+  "NOTES/Notes/Development": "FabDev",
+  "NOTES/Notes/Development/Web Development.md": "IbWebsiteWithText",
+  "NOTES/pages/Development-pages/JS-TS-Note": "SiJavascript",
+  "NOTES/pages/Development-pages/JS-TS-Note/TypeScript.md": "BoBxlTypescript",
+  "NOTES/pages/Development-pages/React-Note": "SiReact",
+  "NOTES/pages/Development-pages/React-Note/React.js.md": "FabReact",
+  "NOTES/pages/Development-pages/monorepo-framework/Turborepo.md": "SiTurborepo"
 }
