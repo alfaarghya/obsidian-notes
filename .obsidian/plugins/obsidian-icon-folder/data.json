@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": "#8f62ea",
     "recentlyUsedIcons": [
+      "SiRedux",
+      "TiStatusChange",
       "SiBlackmagicdesign",
       "SiTurborepo",
-      "FabReact",
-      "IbWebsiteWithText",
-      "SiDevdotto"
+      "FabReact"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -77,5 +77,7 @@
   "NOTES/pages/Development-pages/React-Note/React.js.md": "FabReact",
   "NOTES/pages/Development-pages/monorepo-framework/Turborepo.md": "SiTurborepo",
   "NOTES/pages/Development-pages/CICD": "SiBlackmagicdesign",
-  "NOTES/pages/Development-pages/CICD/CI-CD.md": "SiBlackmagicdesign"
+  "NOTES/pages/Development-pages/CICD/CI-CD.md": "SiBlackmagicdesign",
+  "NOTES/pages/Development-pages/React-Note/State-Management": "TiStatusChange",
+  "NOTES/pages/Development-pages/React-Note/State-Management/Redux.md": "SiRedux"
 }

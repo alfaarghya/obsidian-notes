@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db57744f1dae4370",
+        "id": "49835980ec277b88",
         "type": "tabs",
         "children": [
           {
-            "id": "0cecf1ceab5c7adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTES/pages/Development-pages/CICD/CI-CD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CI-CD"
-            }
-          },
-          {
-            "id": "9fb461ca6b5d2be4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NOTES/Notes/Development/Web Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Web Development"
-            }
-          },
-          {
-            "id": "441ab7dc5b5404e6",
+            "id": "b2c22bf03c15c01d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,9 +16,50 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "9b1d7aa7e0c7e839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/pages/Development-pages/React-Note/State-Management/Redux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redux"
+            }
+          },
+          {
+            "id": "18385311f60ae220",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/pages/Development-pages/React-Note/React.js.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React.js"
+            }
+          },
+          {
+            "id": "c99aad4b953d26f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/pages/Development-pages/React-Note/Basic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#useState",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207
+    "width": 321.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "f0413eb92a23db4d",
@@ -143,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Docker-Note/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +166,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Docker"
+              "title": "Backlinks"
             }
           },
           {
@@ -162,12 +175,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Docker-Note/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Docker"
+              "title": "Outgoing links"
             }
           },
           {
@@ -177,7 +189,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -197,7 +211,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -216,25 +231,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "441ab7dc5b5404e6",
+  "active": "b2c22bf03c15c01d",
   "lastOpenFiles": [
+    "NOTES/pages/Development-pages/React-Note/State-Management/Redux.md",
+    "public/webdevelopment/react/State-Management/redux-workflow.excalidraw.md",
+    "public/webdevelopment/react/State-Management/redux-workflow.excalidraw.png",
+    "NOTES/pages/Development-pages/React-Note/React.js.md",
+    "public/webdevelopment/react/State-Management",
+    "NOTES/pages/Development-pages/React-Note/Drawing 2025-02-24 12.40.51.excalidraw.md",
+    "Pasted Image 20250224124120_141.png",
+    "NOTES/pages/Development-pages/React-Note/Basic.md",
+    "NOTES/pages/Development-pages/React-Note/State-Management",
+    "public/webdevelopment/react/state-management-store.png.crswap",
+    "public/webdevelopment/react/state-management-store.png",
+    "public/webdevelopment/react/passing_data_prop_drilling.png.crswap",
+    "public/webdevelopment/react/passing_data_prop_drilling.png",
+    "public/webdevelopment/react/passing_data_prop_drilling.webp",
+    "public/webdevelopment/react/passing_data_prop_drilling.webp.crdownload",
+    "public/webdevelopment/react",
+    "NOTES/Notes/Development/Web Development.md",
     "NOTES/pages/Development-pages/CICD/CI-CD.md",
+    "NOTES/pages/Development-pages/JS-TS-Note/TypeScript.md",
     "public/CI-CD/CI_Pipeline.webp",
     "public/CI-CD/CI_Pipeline.webp.crdownload",
-    "NOTES/Notes/Development/Web Development.md",
     "NOTES/pages/Development-pages/monorepo-framework/Turborepo.md",
     "NOTES/pages/Development-pages/CICD",
     "public/CI-CD/architectureDiagram.webp",
     "public/CI-CD/architectureDiagram.webp.crdownload",
     "public/CI-CD",
     "public/webdevelopment/turborepo/root-packgeJson.webp",
-    "public/webdevelopment/turborepo/root-packgeJson.webp.crdownload",
     "public/webdevelopment/turborepo/logo-turborepo.webp",
-    "public/webdevelopment/turborepo/logo-turborepo.webp.crdownload",
-    "public/webdevelopment/turborepo",
-    "public/webdevelopment",
-    "NOTES/pages/Development-pages/monorepo-framework",
-    "NOTES/pages/Development-pages",
     "NOTES/Canvas/GO-mindboard.canvas",
     "NOTES/pages/GO-pages/Packages/godotenv.md",
     "NOTES/Notes/Docker-Note/Docker.md",
@@ -246,25 +272,14 @@
     "NOTES/pages/GO-pages/GO commands.md",
     "NOTES/pages/GO-pages/Basics.md",
     "README.md",
-    "NOTES/pages/Development-pages/JS-TS-Note/TypeScript.md",
     "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code2.png",
-    "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code1.png",
-    "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code1 1.png",
-    "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code.png",
-    "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code 6.png",
-    "public/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3/code 5.png",
     "a19dc17e-26d8-4e84-8690-70b6a7e9ce64_Export-b9a07f92-ad2b-4f28-9315-dbb91ce6c918/TypeScript cf9ff40b04cf4bf48cb85f1d6f5a69c3.md",
-    "NOTES/pages/Development-pages/React-Note/React.js.md",
     "Excalidraw/Drawing 2025-01-11 20.04.57.excalidraw.md",
     "NOTES/Notes/Linux-Note/Linux.md",
     "Notes/React-Note/8fdc6b7c-bf87-4f58-9579-158a0af2df09_Export-c83db23e-4618-450d-8720-2666d5994193/React js b83ecf919a664da5a650f97e1e1319f4.md",
     "NOTES/pages/Docker-Pages/Dockerfile.md",
     "NOTES/pages/Docker-Pages/Docker compose.md",
     "NOTES/pages/Docker-Pages/Layers Deep Drive.md",
-    "NOTES/pages/Docker-Pages/Image vs Container.md",
-    "NOTES/pages/Docker-Pages/Network & volumes.md",
-    "NOTES/pages/Docker-Pages/CLI Command.md",
-    "NOTES/pages/Docker-Pages/Install Docker.md",
     "NOTES/Canvas/Linux-mindboard.canvas"
   ]
 }
